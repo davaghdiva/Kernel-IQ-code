@@ -1,6 +1,6 @@
 # Kernel-IQ FRL Replication Repository
 
-This repository contains the replication code and supporting material for the Kernel-IQ covariance estimation experiments reported in the associated *Finance Research Letters* paper.
+This repository contains the replication code and supporting material for the Kernel-IQ covariance estimation experiments.
 
 The repository is structured to support two complementary use cases:
 
