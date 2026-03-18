@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Kernel-IQ FRL replication repository"
+message: "If you use this software, please cite the associated paper and this repository release."
+type: software
+authors:
+  - family-names: Smyth
+    given-names: William S.
+    email: w.smyth@ulster.ac.uk
+repository-code: "https://github.com/USERNAME/REPOSITORY"
+license: "MIT"
+abstract: >-
+  Replication code and precomputed-result companion materials for the
+  Kernel-IQ / WIQ Financial Research Letters paper.
+keywords:
+  - covariance estimation
+  - portfolio optimisation
+  - reproducibility
+  - ensemble experiments
